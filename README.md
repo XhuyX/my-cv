@@ -41,7 +41,7 @@ Sau khi hoàn tất quá trình cài đặt, bạn có thể khởi động ứn
     npm start
     ```
 
-2.  Ứng dụng sẽ tự động mở trong trình duyệt hoặc bạn có thể truy cập bằng đường dẫn mặc định (thường là **http://localhost:3000**), trừ khi có cấu hình cổng khác.
+2.  Ứng dụng sẽ tự động mở trong trình duyệt hoặc bạn có thể truy cập bằng đường dẫn mặc định (**http://localhost:3000**).
 
 ---
 
